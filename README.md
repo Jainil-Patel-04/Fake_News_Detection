@@ -61,5 +61,5 @@ MIT License
 This project is built purely for educational and experimental purposes to explore basic Natural Language Processing (NLP) and ML/DL techniques. It is not suitable for real-world fact-checking or decision-making. The models used are simple, non-contextual, and cannot understand language nuances or factual correctness. Misusing this tool for serious analysis may lead to incorrect or harmful conclusions. Please do not trust or rely on the outputs of this demo. It is meant for learning only.
 
 ## Demo
-![image](https://github.com/user-attachments/assets/d2c38988-0299-458c-b63c-c9ada7c8eb7a)  
-![image](https://github.com/user-attachments/assets/23a4fba6-47a6-459a-94a2-7d8425c93387)
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/f1a0d61f-75ce-405a-8651-f5f52cb92b7f" />
+<img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/a3743e1e-1b00-4539-8080-8e44dd07ea08" />
